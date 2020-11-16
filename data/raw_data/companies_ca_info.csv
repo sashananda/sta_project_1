@@ -1,0 +1,289 @@
+,company,company_size,company_year_founded,company_type,company_industry,company_revenue,company_review,company_interview_difficulty,company_benefits
+0,Capital One,10000+ Employees,1994,Company - Public,Banks & Credit Unions,$10+ billion (USD),,3.1,4.4
+1,RBC,10000+ Employees,1869,Company - Public,Banks & Credit Unions,$10+ billion (USD),,,3.9
+2,Scotiabank,10000+ Employees,1832,Company - Public,Investment Banking & Asset Management,$10+ billion (USD),3.8,,3.6
+3,TD,10000+ Employees,1855,Company - Public,Banks & Credit Unions,$10+ billion (USD),3.9,,3.9
+4,Banque Nationale du Canada/National Bank of Canada,10000+ Employees,1859,Company - Public,Banks & Credit Unions,$5 to $10 billion (USD),4.2,2.6,0.0
+5,Loblaw Companies,10000+ Employees,null,Company - Public,Vehicle Dealers,$10+ billion (USD),3.6,2.2,3.5
+6,Shopify,1001 to 5000 Employees,2006,Company - Public,Internet,$1 to $2 billion (USD),4.2,,4.6
+7,Bell Canada,10000+ Employees,1880,Company - Public,"Cable, Internet & Telephone Providers",$10+ billion (USD),3.7,,0.0
+8,IBM,10000+ Employees,1911,Company - Public,IT Services,$10+ billion (USD),3.8,,3.6
+9,Rogers Communications,10000+ Employees,1960,Company - Public,Telecommunications Services,$10+ billion (USD),3.9,,1.5
+10,Deloitte,10000+ Employees,1850,Company - Private,Accounting,$10+ billion (USD),3.8,,4.2
+11,Boeing,10000+ Employees,1916,Company - Public,Aerospace & Defense,$10+ billion (USD),3.7,2.8,4.2
+12,Intact,10000+ Employees,null,Company - Public,Insurance Carriers,$5 to $10 billion (USD),4.2,2.9,4.0
+13,Stradigi AI,51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.0,,0.0
+14,HSBC Holdings,10000+ Employees,1865,Company - Public,Banks & Credit Unions,$10+ billion (USD),3.7,,4.0
+15,ATB Financial,5001 to 10000 Employees,1938,Company - Private,Investment Banking & Asset Management,$100 to $500 million (USD),3.7,2.9,4.0
+16,AeroInfo Systems,1 to 50 Employees,1996,Subsidiary or Business Segment,Computer Hardware & Software,Unknown / Non-Applicable,3.3,,0.0
+17,CIBC,10000+ Employees,1867,Company - Public,Banks & Credit Unions,$10+ billion (USD),3.8,,3.3
+18,University of British Columbia,10000+ Employees,1915,College / University,Colleges & Universities,$2 to $5 billion (USD),4.3,,2.0
+19,Ericsson-Worldwide,10000+ Employees,1876,Company - Public,Telecommunications Services,$10+ billion (USD),3.8,2.9,4.3
+20,LoyaltyOne,1001 to 5000 Employees,1992,Subsidiary or Business Segment,Advertising & Marketing,$1 to $2 billion (USD),3.1,2.7,0.0
+21,Aviva Canada,1001 to 5000 Employees,1835,Company - Private,Insurance Carriers,$100 to $500 million (USD),3.4,,0.0
+22,Thomson Reuters,10000+ Employees,2008,Company - Public,Enterprise Software & Network Solutions,$5 to $10 billion (USD),4.1,2.8,3.8
+23,Boston Consulting Group,10000+ Employees,1963,Company - Private,Consulting,$5 to $10 million (USD),4.4,,4.7
+24,Geotab,1001 to 5000 Employees,2000,Company - Private,Computer Hardware & Software,$100 to $500 million (USD),4.5,,4.7
+25,Precima,51 to 200 Employees,2008,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,3.8,3.1,4.0
+26,TELUS,10000+ Employees,1998,Company - Public,"Cable, Internet & Telephone Providers",$10+ billion (USD),3.9,,3.3
+27,KPMG,10000+ Employees,1987,Subsidiary or Business Segment,Accounting,$2 to $5 billion (USD),3.9,,3.9
+28,Manulife,10000+ Employees,1887,Company - Public,Investment Banking & Asset Management,$25 to $50 million (USD),3.8,,4.0
+29,Bombardier,10000+ Employees,1942,Company - Private,Transportation Equipment Manufacturing,$10+ billion (USD),3.4,2.7,3.5
+30,Canada Post,10000+ Employees,null,Government,Federal Agencies,$5 to $10 billion (USD),3.5,2.6,5.0
+31,Electronic Arts,5001 to 10000 Employees,1982,Company - Public,Video Games,$2 to $5 billion (USD),4.0,,4.3
+32,Ubisoft,10000+ Employees,1986,Company - Public,Video Games,$2 to $5 billion (USD),3.8,2.8,3.2
+33,CN,10000+ Employees,null,Company - Public,Rail,$5 to $10 billion (USD),3.0,2.5,4.1
+34,Morgan Stanley,10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,$10+ billion (USD),4.0,,3.9
+35,Teck Resources,5001 to 10000 Employees,null,Company - Public,Mining,$5 to $10 billion (USD),3.9,,4.5
+36,Statistics Canada,Unknown,null,Government,Federal Agencies,Less than $1 million (USD),4.0,2.8,0.0
+37,Moneris,1001 to 5000 Employees,2000,Company - Private,Financial Transaction Processing,Unknown / Non-Applicable,3.2,2.8,3.5
+38,Flipp,201 to 500 Employees,2007,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,3.9,,0.0
+39,Aimia,201 to 500 Employees,2011,Company - Public,Advertising & Marketing,$2 to $5 billion (USD),3.4,,3.5
+40,ecobee,501 to 1000 Employees,2007,Company - Private,Consumer Electronics & Appliances Stores,Unknown / Non-Applicable,3.1,,0.0
+41,IQVIA,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,$2 to $5 billion (USD),3.7,2.9,3.7
+42,Realtor.com,1001 to 5000 Employees,1993,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,3.0,2.6,3.9
+43,Equifax,10000+ Employees,1899,Company - Public,Financial Analytics & Research,$2 to $5 billion (USD),3.1,2.7,3.2
+44,Pelmorex Corp,201 to 500 Employees,1989,Company - Private,TV Broadcast & Cable Networks,Unknown / Non-Applicable,4.4,,0.0
+45,Hothead Games,51 to 200 Employees,2006,Company - Private,Video Games,$25 to $50 million (USD),4.4,2.6,0.0
+46,Sysomos,51 to 200 Employees,2007,Company - Private,Internet,Unknown / Non-Applicable,3.2,,3.0
+47,Enel X,1001 to 5000 Employees,2017,Company - Public,Enterprise Software & Network Solutions,$100 to $500 million (USD),3.6,,3.6
+48,Two Hat Security,1 to 50 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.7,,0.0
+49,NuData Security,51 to 200 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,4.1,3.0,0.0
+50,POWERSHiFTER,1 to 50 Employees,2008,Company - Private,Internet,Unknown / Non-Applicable,4.7,,0.0
+51,Efficiency One,51 to 200 Employees,null,Nonprofit Organization,,Less than $1 million (USD),5.0,,
+52,Knowtions,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),4.7,3.0,0.0
+53,University of Toronto,10000+ Employees,1827,College / University,Colleges & Universities,$2 to $5 billion (USD),4.2,2.5,2.0
+54,Walmart,1001 to 5000 Employees,1962,Company - Public,"Department, Clothing, & Shoe Stores",$10+ billion (USD),3.3,,3.2
+55,BMO Financial Group,10000+ Employees,1817,Company - Public,Banks & Credit Unions,$10+ billion (USD),3.7,,3.8
+56,BlackBerry,1001 to 5000 Employees,1984,Company - Public,Enterprise Software & Network Solutions,$5 to $10 billion (USD),3.3,2.9,3.7
+57,University of Waterloo,1001 to 5000 Employees,1957,College / University,Colleges & Universities,$500 million to $1 billion (USD),4.4,,0.0
+58,CGI,10000+ Employees,1976,Company - Public,Consulting,$10+ billion (USD),3.6,2.7,3.4
+59,Canadian Tire,5001 to 10000 Employees,1922,Company - Public,"Department, Clothing, & Shoe Stores",$10+ billion (USD),3.7,,0.0
+60,McMaster University,5001 to 10000 Employees,1887,College / University,Colleges & Universities,$500 million to $1 billion (USD),4.3,2.5,0.0
+61,BC Hydro,1001 to 5000 Employees,1961,Government,Energy,$2 to $5 billion (USD),4.0,3.1,3.0
+62,Accenture,10000+ Employees,1989,Company - Public,Consulting,$10+ billion (USD),3.9,2.8,4.1
+63,McGill University,5001 to 10000 Employees,1821,College / University,Colleges & Universities,$1 to $2 billion (USD),4.2,,0.0
+64,SAP,10000+ Employees,1972,Company - Public,Computer Hardware & Software,$10+ billion (USD),4.6,2.9,4.3
+65,Ryerson University,1001 to 5000 Employees,null,College / University,Colleges & Universities,$100 to $500 million (USD),4.4,2.4,0.0
+66,University of Calgary,1001 to 5000 Employees,1966,College / University,Colleges & Universities,$50 to $100 million (USD),4.0,2.6,3.0
+67,Sun Life,10000+ Employees,1865,Company - Public,Insurance Carriers,$10+ billion (USD),4.3,2.6,4.1
+68,Government of Canada,10000+ Employees,null,Government,Federal Agencies,$10+ billion (USD),4.1,3.1,0.0
+69,Carleton University,1001 to 5000 Employees,1866,College / University,Colleges & Universities,$500 million to $1 billion (USD),4.4,,0.0
+70,Microsoft,10000+ Employees,1975,Company - Public,Computer Hardware & Software,$10+ billion (USD),4.3,3.1,4.5
+71,GoodLife Fitness,10000+ Employees,1979,Company - Private,"Health, Beauty, & Fitness",$100 to $500 million (USD),3.5,,3.0
+72,MNP LLP,5001 to 10000 Employees,1958,Private Practice / Firm,Accounting,$500 million to $1 billion (USD),4.0,,0.0
+73,Concordia University,5001 to 10000 Employees,null,College / University,Colleges & Universities,$100 to $500 million (USD),4.1,2.4,3.5
+74,Cisco Systems,10000+ Employees,1984,Company - Private,Computer Hardware & Software,$10+ billion (USD),4.2,3.0,4.2
+75,Pratt & Whitney Canada,5001 to 10000 Employees,1928,Subsidiary or Business Segment,Aerospace & Defense,Unknown / Non-Applicable,4.0,2.6,0.0
+76,CBC/Radio-Canada,5001 to 10000 Employees,1936,Government,TV Broadcast & Cable Networks,Unknown / Non-Applicable,3.5,3.0,0.0
+77,Hootsuite,501 to 1000 Employees,2008,Company - Private,Internet,$100 to $500 million (USD),3.6,,2.0
+78,BGIS,5001 to 10000 Employees,1992,Company - Public,Real Estate,$100 to $500 million (USD),3.7,2.7,3.8
+79,Google,10000+ Employees,1998,Company - Public,Internet,$10+ billion (USD),4.5,3.3,4.6
+80,University of Victoria,1001 to 5000 Employees,1963,College / University,Colleges & Universities,$500 million to $1 billion (USD),4.2,,0.0
+81,Ontario Teachers' Pension Plan,1001 to 5000 Employees,1989,Company - Private,Investment Banking & Asset Management,$10+ billion (USD),4.2,,0.0
+82,Ontario Ministry of Education,501 to 1000 Employees,null,Government,Federal Agencies,Less than $1 million (USD),4.3,,0.0
+83,Fortinet,10000+ Employees,2000,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),4.4,3.1,4.0
+84,PointClickCare,1001 to 5000 Employees,2000,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,4.2,3.0,4.0
+85,Sanofi,10000+ Employees,1973,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),3.9,2.9,4.2
+86,WorkSafeBC,1001 to 5000 Employees,1917,Government,Insurance Carriers,Unknown / Non-Applicable,4.1,,0.0
+87,Gameloft,5001 to 10000 Employees,2000,Company - Private,Video Games,$100 to $500 million (USD),3.3,2.8,3.5
+88,Ministry of the Environment and Climate Change,10000+ Employees,null,Government,Federal Agencies,Less than $1 million (USD),3.7,,0.0
+89,BMO Capital Markets,1001 to 5000 Employees,1912,Subsidiary or Business Segment,Investment Banking & Asset Management,$2 to $5 billion (USD),3.9,,3.6
+90,Top Hat,201 to 500 Employees,2009,Company - Private,Colleges & Universities,$25 to $50 million (USD),3.5,2.8,3.5
+91,SSENSE,501 to 1000 Employees,2003,Company - Private,"Department, Clothing, & Shoe Stores",Unknown / Non-Applicable,4.0,2.8,0.0
+92,Environment Canada,5001 to 10000 Employees,null,Government,Federal Agencies,Less than $1 million (USD),3.6,,0.0
+93,Cossette Communication,501 to 1000 Employees,1972,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,3.6,2.5,0.0
+94,GlaxoSmithKline,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),4.0,3.1,4.2
+95,Lightspeed,1001 to 5000 Employees,2005,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,4.0,,3.7
+96,St. Michael's Hospital,5001 to 10000 Employees,1892,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),4.1,3.0,2.0
+97,Kingston General Hospital,1001 to 5000 Employees,1832,Hospital,Health Care Services & Hospitals,Less than $1 million (USD),3.6,3.0,0.0
+98,Unilever,10000+ Employees,1872,Company - Public,Consumer Products Manufacturing,$10+ billion (USD),4.1,,4.0
+99,ABC,10000+ Employees,1996,Subsidiary or Business Segment,TV Broadcast & Cable Networks,$2 to $5 billion (USD),3.9,2.7,3.7
+100,Health Canada,10000+ Employees,1996,Government,Federal Agencies,$1 to $2 billion (USD),3.9,2.8,0.0
+101,Ritchie Bros.,1001 to 5000 Employees,1958,Company - Public,Construction,$500 million to $1 billion (USD),4.1,2.7,4.1
+102,Self,501 to 1000 Employees,null,Company - Private,,$100 to $500 million (USD),4.5,,2.9
+103,Nutrien,10000+ Employees,2018,Company - Public,Farm Support Services,$5 to $10 billion (USD),3.9,,4.6
+104,Tech Mahindra,10000+ Employees,1986,Company - Public,IT Services,$2 to $5 billion (USD),3.6,2.8,2.9
+105,Finastra,10000+ Employees,2017,Company - Private,Financial Transaction Processing,$2 to $5 billion (USD),3.7,2.7,3.6
+106,Alberta Motor Association,1001 to 5000 Employees,null,Nonprofit Organization,Membership Organizations,$100 to $500 million (USD),3.0,2.9,0.0
+107,Revenu Quebec,Unknown,null,Government,Federal Agencies,Less than $1 million (USD),3.5,,0.0
+108,Toronto Star,1001 to 5000 Employees,1892,Subsidiary or Business Segment,Publishing,$100 to $500 million (USD),3.1,2.9,0.0
+109,Federal Government,1001 to 5000 Employees,null,Government,Federal Agencies,Less than $1 million (USD),4.0,,4.2
+110,Tucows,501 to 1000 Employees,1993,Company - Public,IT Services,$100 to $500 million (USD),3.3,,4.0
+111,Kronos Incorporated,5001 to 10000 Employees,1977,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),4.3,,4.1
+112,Employment and Social Development Canada,Unknown,null,Government,Federal Agencies,Less than $1 million (USD),3.9,,0.0
+113,The Globe & Mail,501 to 1000 Employees,null,Company - Private,Publishing,$100 to $500 million (USD),3.6,,0.0
+114,Pratt & Whitney,10000+ Employees,1925,Subsidiary or Business Segment,Aerospace & Defense,$10+ billion (USD),3.9,2.7,3.6
+115,Northbridge Insurance,1001 to 5000 Employees,null,Company - Private,Insurance Carriers,$100 to $500 million (USD),3.6,2.4,0.0
+116,Pitney Bowes,10000+ Employees,1920,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),3.4,2.7,3.7
+117,Yardi Systems,5001 to 10000 Employees,1982,Company - Private,Computer Hardware & Software,$500 million to $1 billion (USD),4.1,,4.3
+118,Seedbox Technologies,51 to 200 Employees,1996,Company - Private,Internet,Unknown / Non-Applicable,4.1,,0.0
+119,Rocky Mountaineer,201 to 500 Employees,1990,Company - Private,Passenger Rail,$100 to $500 million (USD),3.9,3.1,0.0
+120,Jewish General Hospital,5001 to 10000 Employees,1934,Hospital,Health Care Services & Hospitals,$100 to $500 million (USD),3.3,,0.0
+121,Canadian Food Inspection Agency,1001 to 5000 Employees,null,Government,Federal Agencies,Less than $1 million (USD),4.2,,0.0
+122,Unbounce,201 to 500 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,4.6,,0.0
+123,League,201 to 500 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.5,2.8,4.3
+124,Sauder School of Business,51 to 200 Employees,null,College / University,Colleges & Universities,$25 to $50 million (USD),4.0,,0.0
+125,Prodigy Education,201 to 500 Employees,2011,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,4.5,,0.0
+126,T4G,201 to 500 Employees,1996,Company - Private,Consulting,$10 to $25 million (USD),3.4,2.7,0.0
+127,Mastercard,10000+ Employees,1966,Company - Public,Financial Transaction Processing,$5 to $10 billion (USD),4.2,2.9,4.2
+128,Kik,51 to 200 Employees,2009,Company - Private,Computer Hardware & Software,$10 to $25 million (USD),3.5,2.9,5.0
+129,Farmers Edge,201 to 500 Employees,2005,Company - Private,Farm Support Services,$10 to $25 million (USD),3.1,,0.0
+130,Torstar,1001 to 5000 Employees,1892,Company - Private,Publishing,Unknown / Non-Applicable,2.7,,0.0
+131,500px,1 to 50 Employees,2009,Company - Private,Photography,$5 to $10 million (USD),4.0,,0.0
+132,ruby,51 to 200 Employees,2002,Company - Private,Internet,$25 to $50 million (USD),4.0,,0.0
+133,Xe,201 to 500 Employees,1993,Company - Private,Financial Transaction Processing,$100 to $500 million (USD),3.3,2.8,5.0
+134,Hotspex,51 to 200 Employees,2000,Company - Private,Research & Development,Unknown / Non-Applicable,3.6,,0.0
+135,Adastra Group,201 to 500 Employees,2000,Company - Private,IT Services,$100 to $500 million (USD),3.6,,0.0
+136,Maluuba,51 to 200 Employees,2011,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,3.9,,0.0
+137,Facebook,10000+ Employees,2004,Company - Public,Internet,$5 to $10 billion (USD),4.5,3.1,4.7
+138,Trulioo,51 to 200 Employees,2011,Company - Private,Internet,$50 to $100 million (USD),3.8,2.9,0.0
+139,INVISTA,10000+ Employees,null,Subsidiary or Business Segment,Chemical Manufacturing,Unknown / Non-Applicable,3.7,3.0,3.8
+140,Thinkific,51 to 200 Employees,2012,Company - Private,Internet,Unknown / Non-Applicable,4.7,3.0,0.0
+141,Omnicom Media Group,1001 to 5000 Employees,null,Subsidiary or Business Segment,Advertising & Marketing,$100 to $500 million (USD),3.6,,3.6
+142,BNOTIONS,,,,,,4.0,,0.0
+143,Upwork,201 to 500 Employees,2014,Company - Public,Staffing & Outsourcing,$100 to $500 million (USD),4.1,2.7,3.8
+144,CARFAX Canada,51 to 200 Employees,2000,Company - Public,IT Services,Unknown / Non-Applicable,4.4,,0.0
+145,Eyereturn Marketing,51 to 200 Employees,2000,Company - Public,Advertising & Marketing,$10 to $25 million (USD),3.7,2.5,0.0
+146,Arvato,10000+ Employees,1835,Subsidiary or Business Segment,Staffing & Outsourcing,$2 to $5 billion (USD),3.1,,2.9
+147,Magnet Forensics,51 to 200 Employees,null,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,3.7,2.8,0.0
+148,Experis,5001 to 10000 Employees,1953,Subsidiary or Business Segment,Staffing & Outsourcing,$25 to $50 million (USD),3.4,,2.9
+149,Verizon,10000+ Employees,2000,Company - Public,Telecommunications Services,$10+ billion (USD),3.9,2.9,4.4
+150,First Derivatives,1001 to 5000 Employees,1996,Company - Public,IT Services,$500 million to $1 billion (USD),3.3,,3.5
+151,Statflo,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,4.5,,0.0
+152,SinaLite,51 to 200 Employees,2005,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,3.9,,0.0
+153,Multi-Health Systems,51 to 200 Employees,1983,Company - Private,Research & Development,$25 to $50 million (USD),3.3,2.4,0.0
+154,district m,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,$50 to $100 million (USD),3.9,,0.0
+155,Neurio Technology,1 to 50 Employees,null,Company - Private,,$1 to $5 million (USD),3.6,2.0,0.0
+156,RS Energy Group,201 to 500 Employees,1998,Company - Private,Oil & Gas Services,Unknown / Non-Applicable,4.9,2.8,
+157,Overbond,1 to 50 Employees,2020,Company - Private,Federal Agencies,Unknown / Non-Applicable,3.6,2.4,0.0
+158,LCI Éducation,1001 to 5000 Employees,1959,Company - Private,Colleges & Universities,Unknown / Non-Applicable,3.3,,0.0
+159,Uncharted,51 to 200 Employees,null,Company - Private,,Less than $1 million (USD),4.0,3.0,0.0
+160,Canadian Internet Registration Authority,51 to 200 Employees,2000,Nonprofit Organization,Internet,$10 to $25 million (USD),4.3,3.0,
+161,EMAGIN Clean Technologies,1 to 50 Employees,2016,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,4.0,,0.0
+162,Field Effect,51 to 200 Employees,2016,Company - Private,Security Services,Unknown / Non-Applicable,5.0,,
+163,daVinci,1 to 50 Employees,null,Company - Private,Enterprise Software & Network Solutions,Less than $1 million (USD),1.5,,1.0
+164,Boréalis (Canada),1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),3.7,,
+165,Upsight,51 to 200 Employees,2014,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,3.9,,4.2
+166,CRIM (Computer Research Institute of Montreal),Unknown,null,Other Organization,Research & Development,Less than $1 million (USD),3.6,,0.0
+167,Mistplay,1 to 50 Employees,2016,Company - Private,Video Games,Unknown / Non-Applicable,,3.3,0.0
+168,Gestisoft,51 to 200 Employees,null,Company - Private,,Less than $1 million (USD),3.9,,0.0
+169,Quandl,51 to 200 Employees,2012,Company - Private,Internet,Unknown / Non-Applicable,4.3,,0.0
+170,Neelands Refrigeration,51 to 200 Employees,1958,Company - Private,Wholesale,$10 to $25 million (USD),3.8,4.0,
+171,Altus Assessments,51 to 200 Employees,2014,Company - Private,Computer Hardware & Software,$5 to $10 million (USD),4.5,2.9,0.0
+172,Wish,501 to 1000 Employees,2011,Company - Private,Other Retail Stores,$1 to $2 billion (USD),3.5,2.9,4.5
+173,Geosyntec Consultants,1001 to 5000 Employees,1983,Company - Private,Architectural & Engineering Services,$100 to $500 million (USD),,,4.5
+174,Cerebri AI,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.9,,3.0
+175,Opta Information Intelligence,51 to 200 Employees,null,Company - Private,Insurance Agencies & Brokerages,Unknown / Non-Applicable,,2.7,0.0
+176,Power Factors,51 to 200 Employees,null,Private Practice / Firm,Computer Hardware & Software,Unknown / Non-Applicable,4.5,,4.0
+177,Felix & Paul Studios,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),3.3,,
+178,Autotrader,1001 to 5000 Employees,1997,Company - Private,Vehicle Dealers,$1 to $2 billion (USD),,,4.1
+179,CSI Consulting,51 to 200 Employees,null,Company - Private,Consulting,$5 to $10 million (USD),3.1,1.5,0.0
+180,KE Solutions,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),4.9,,0.0
+181,Forcepoint,1001 to 5000 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.2,,3.3
+182,AIRM Consulting,1 to 50 Employees,null,Company - Public,,Less than $1 million (USD),5.0,,
+183,Keela,1 to 50 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,4.2,,0.0
+184,Prolifics,1001 to 5000 Employees,1978,Company - Private,IT Services,$100 to $500 million (USD),,,2.9
+185,Freelance.com,51 to 200 Employees,null,Company - Public,,Less than $1 million (USD),4.1,2.0,2.0
+186,Sia Partners,1001 to 5000 Employees,1999,Company - Private,Consulting,$100 to $500 million (USD),3.9,,3.7
+187,Outshine,1 to 50 Employees,2010,Company - Private,Consulting,Unknown / Non-Applicable,5.0,,0.0
+188,Enlighted,51 to 200 Employees,2009,Company - Private,Enterprise Software & Network Solutions,$25 to $50 million (USD),,2.5,3.0
+189,Chisel AI,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,5.0,,0.0
+190,ASL Environmental Sciences,,,,,,,,
+191,tealbook,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),,,
+192,Samplits,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),,3.0,
+193,AltaML,51 to 200 Employees,2018,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,5.0,2.0,
+194,Via Science,1 to 50 Employees,2016,Company - Private,Computer Hardware & Software,$1 to $5 million (USD),5.0,,
+195,Gymtrack,,,,,,3.3,,0.0
+196,SolutionStat,,,,,,4.0,,
+197,Savormetrics,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),,,
+198,SharpestMinds,1 to 50 Employees,null,Contract,,Less than $1 million (USD),5.0,,0.0
+199,FitFi,1 to 50 Employees,2018,Company - Private,"Health, Beauty, & Fitness",Less than $1 million (USD),,,
+200,Brizi,,,,,,,2.4,
+201,Planet Bingo,1 to 50 Employees,null,Company - Private,Video Games,$10 to $25 million (USD),,2.0,0.0
+202,Vooban,1 to 50 Employees,2011,Company - Private,IT Services,Unknown / Non-Applicable,5.0,,0.0
+203,Faimdata,1 to 50 Employees,null,Company - Private,Computer Hardware & Software,Less than $1 million (USD),3.2,,
+204,Acerta (Canada),1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),4.1,,
+205,deviantArt,51 to 200 Employees,null,Company - Private,Motion Picture Production & Distribution,$10 to $25 million (USD),3.4,,5.0
+206,Beam Data,1 to 50 Employees,null,Contract,,Less than $1 million (USD),,,
+207,Scribd,201 to 500 Employees,2007,Company - Private,Internet,$100 to $500 million (USD),,,4.3
+208,Dane Street,,,,,,,,
+209,Renda Broadcasting,1 to 50 Employees,null,Company - Public,,$5 to $10 million (USD),4.1,,4.0
+210,Aitheras,1 to 50 Employees,1981,Company - Private,IT Services,$1 to $5 million (USD),4.1,,
+211,Polar Systems,201 to 500 Employees,null,Company - Private,,Less than $1 million (USD),5.0,,
+212,Prestige SG-TECH Consulting,201 to 500 Employees,null,Company - Private,,Less than $1 million (USD),5.0,,
+213,YYZ Ventures,,,,,,,,
+214,Random Forest,,,,,,,,
+215,patrickmesana,,,,,,,,
+216,Sherbrooke Informatique,,,,,,5.0,,
+217,Losch Engineering,1 to 50 Employees,null,Company - Private,Architectural & Engineering Services,Less than $1 million (USD),,,
+218,Chizindu udum,,,,,,,,
+219,CONCURED,1 to 50 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,4.6,,
+220,Annalect,201 to 500 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,3.8,,3.8
+221,Trump Pense,501 to 1000 Employees,null,Company - Public,,Less than $1 million (USD),,,
+222,Salata,201 to 500 Employees,2005,Company - Private,Casual Restaurants,$10 to $25 million (USD),,,2.6
+223,Food Banks,1 to 50 Employees,null,Nonprofit Organization,Social Assistance,Unknown / Non-Applicable,,,
+224,Pure Strategy Consulting Inc.,,,,,,,,
+225,BalloonBox,,,,,,5.0,,
+226,a i solutions,201 to 500 Employees,1996,Company - Private,Aerospace & Defense,$1 to $5 million (USD),,2.3,2.6
+227,Business Analytica,51 to 200 Employees,null,Company - Private,Advertising & Marketing,Less than $1 million (USD),3.4,,0.0
+228,Ministério da Educação,10000+ Employees,null,Government,Federal Agencies,Less than $1 million (USD),3.8,,0.0
+229,ePassing,1 to 50 Employees,2014,Company - Private,Funeral Services,Unknown / Non-Applicable,,,
+230,Appberry,Unknown,2015,Company - Private,Internet,Unknown / Non-Applicable,,,
+231,Prestige SG-Tech Consulting,201 to 500 Employees,null,Company - Private,,Less than $1 million (USD),5.0,,
+232,SimplicityBI,,,,,,,,
+233,Pure Strategic,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),4.4,,4.0
+234,Global Development Group,,,,,,0.0,,0.0
+235,Datacratic,,,,,,,,
+236,East Asian Observatory,,,,,,4.5,,
+237,Sports IQ Analytics,,,,,,,,
+238,Smats Traffic Solutions ,,,,,,,,
+239,Pretect ,51 to 200 Employees,null,Company - Private,,Less than $1 million (USD),,,
+240,University of Fujairah,,,,,,2.0,,
+241,Graphika Print Solution,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),,,
+242,Aviva,10000+ Employees,1861,Company - Public,Insurance Carriers,$5 to $10 billion (USD),3.6,2.8,3.5
+243,ADP,10000+ Employees,1949,Company - Public,Consulting,$10+ billion (USD),,,4.1
+244,Ceridian,1001 to 5000 Employees,1991,Company - Public,Enterprise Software & Network Solutions,$500 million to $1 billion (USD),4.2,,4.0
+245,Economical Insurance,,,,,,,2.9,0.0
+246,Intuit,5001 to 10000 Employees,1983,Company - Public,Computer Hardware & Software,$5 to $10 billion (USD),,,4.5
+247,Huawei Technologies,10000+ Employees,1987,Company - Private,Telecommunications Services,$10+ billion (USD),,2.9,3.4
+248,CHEO,1001 to 5000 Employees,null,Hospital,Health Care Services & Hospitals,Less than $1 million (USD),4.3,2.9,0.0
+249,Mozilla,501 to 1000 Employees,2005,Company - Private,Computer Hardware & Software,$100 to $500 million (USD),3.4,2.9,4.7
+250,SurveyMonkey,1001 to 5000 Employees,1999,Company - Public,Internet,$100 to $500 million (USD),,2.8,4.8
+251,GE Digital,1001 to 5000 Employees,2012,Company - Public,Enterprise Software & Network Solutions,$1 to $2 billion (USD),3.2,,3.3
+252,Teradata,10000+ Employees,1979,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),,,3.7
+253,Environment and Climate Change Canada,5001 to 10000 Employees,null,Company - Public,,Less than $1 million (USD),,2.8,0.0
+254,1QB Information Technologies 1QBit,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,,2.8,0.0
+255,Exiger,501 to 1000 Employees,2013,Company - Private,Consulting,Unknown / Non-Applicable,3.2,,3.0
+256,BlueDot,1 to 50 Employees,2014,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,,,0.0
+257,Talan,1001 to 5000 Employees,2002,Company - Private,IT Services,$100 to $500 million (USD),,,4.0
+258,Apply Digital,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,,,0.0
+259,Ivado Labs,1 to 50 Employees,2018,Nonprofit Organization,IT Services,Unknown / Non-Applicable,,,0.0
+260,Kinsol Research,,,,,,,,
+261,Aria Jefferson,1001 to 5000 Employees,1903,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),,,3.8
+262,Brilent,1 to 50 Employees,null,Company - Private,,Less than $1 million (USD),,,5.0
+263,GoDaddy,5001 to 10000 Employees,1997,Company - Public,Internet,$2 to $5 billion (USD),,2.6,4.4
+264,Imbellus,1 to 50 Employees,null,Company - Private,Education Training Services,Less than $1 million (USD),,,
+265,BiblioCommons,51 to 200 Employees,2007,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,,3.1,0.0
+266,Unity Health Toronto,10000+ Employees,2017,Company - Public,Health Care Services & Hospitals,Unknown / Non-Applicable,,,
+267,"GE Lighting, A Savant Company",501 to 1000 Employees,null,Subsidiary or Business Segment,Electrical & Electronic Manufacturing,Unknown / Non-Applicable,,2.7,4.5
+268,Fiddlehead,1 to 50 Employees,null,Company - Public,,Less than $1 million (USD),,,
+269,Genworth,1001 to 5000 Employees,2004,Company - Public,Insurance Carriers,$5 to $10 billion (USD),,2.8,4.1
+270,Orbis Investments,201 to 500 Employees,1989,Company - Private,Investment Banking & Asset Management,Unknown / Non-Applicable,,3.2,0.0
+271,2nd Address,1 to 50 Employees,2014,Company - Private,Real Estate,Unknown / Non-Applicable,,2.7,2.5
+272,Elsevier,5001 to 10000 Employees,1880,Subsidiary or Business Segment,Publishing,$2 to $5 billion (USD),,2.8,3.4
+273,Loblaw Digital,51 to 200 Employees,null,Company - Public,Internet,Unknown / Non-Applicable,,,0.0
+274,Cirque du Soleil Entertainment Group,1001 to 5000 Employees,1984,Company - Private,Performing Arts,$100 to $500 million (USD),,,3.9
+275,1000ml,1 to 50 Employees,2010,Company - Private,IT Services,Unknown / Non-Applicable,,3.0,
+276,Avanade,10000+ Employees,2000,Company - Private,IT Services,$2 to $5 billion (USD),,2.9,3.9
+277,dunnhumby,1001 to 5000 Employees,1989,Company - Private,Consulting,$500 million to $1 billion (USD),,,4.4
+278,Ontario Ministère des Transports,1001 to 5000 Employees,null,Government,Federal Agencies,Less than $1 million (USD),,,0.0
+279,BioWare,501 to 1000 Employees,1995,Company - Public,Video Games,Unknown / Non-Applicable,,,3.0
+280,FGF Brands,501 to 1000 Employees,2004,Company - Private,Food & Beverage Manufacturing,Unknown / Non-Applicable,,,0.0
+281,Ayogo Health,1 to 50 Employees,2011,Company - Private,Computer Hardware & Software,$1 to $5 million (USD),,,0.0
+282,Buyavette,,,,,,,,
+283,IATA,1001 to 5000 Employees,1945,Nonprofit Organization,Membership Organizations,$100 to $500 million (USD),,2.8,4.3
+284,Fraser Health,10000+ Employees,2001,Hospital,Health Care Services & Hospitals,$2 to $5 billion (USD),,,0.0
+285,Athabasca University,1001 to 5000 Employees,null,College / University,Colleges & Universities,$100 to $500 million (USD),,,0.0
+286,Major cannabis company,,,,,,,,
+287,goeasy,1001 to 5000 Employees,1990,Company - Public,Lending,$500 million to $1 billion (USD),,,1.0
