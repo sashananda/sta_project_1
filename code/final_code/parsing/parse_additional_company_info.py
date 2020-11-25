@@ -58,6 +58,14 @@ def get_benefits(fp):
             benefits = benefits_tag[0].text
     return benefits
 
+def get_location(fp):
+    soup = get_soup(fp)
+    benefits = ''
+    location_tag = soup.find_all('div', {'data-test': 'employer-headquarters'})
+    if location_tag:
+        location = location_tag[0].text
+    return location
+
 def get_info(func, country_code, company_name, inf):
     if func == get_overview:
         info = ['', '', '', '', '']
@@ -74,7 +82,8 @@ def get_additional_info(country_code, company_name):
     review = get_info(get_review, country_code, company_name, 'review')
     interview = get_info(get_interview_difficulty, country_code, company_name, 'interview')
     benefits = get_info(get_benefits, country_code, company_name, 'benefits')
-    return [overview[0], overview[1], overview[2], overview[3], overview[4], review, interview, benefits]
+    location = get_info(get_location, country_code, company_name, 'overview')
+    return [overview[0], overview[1], overview[2], overview[3], overview[4], review, interview, benefits, location]
 
 def get_all_additional_company_info(country_code, company_names):
     info = []
@@ -88,30 +97,30 @@ header = ['company_size', 'company_year_founded', 'company_type', 'company_indus
           'company_review', 'company_interview_difficulty', 'company_benefits']
 
 # CA
-# fp = './companies_{country_code}/{company_name}/benefits.html'
-# country_code = 'CA'
-# df_csv = pd.read_csv('./raw_companies/companies_ca_urls.csv')
-# names = df_csv['company']
-
-# info_CA = get_all_additional_company_info(country_code, names)
-# df = pd.DataFrame(info_CA, columns=header)
-
-# for i in range(len(header)):
-#     df_csv[header[i]] = df[header[i]]
-
-# df_csv = df_csv.drop(['url_overview', 'url_review', 'url_interview', 'url_benefits', 'Unnamed: 0'], axis=1)
-# df_csv.to_csv('./raw_companies/companies_ca_info.csv')
-
-# US
-country_code = 'US'
-df_csv = pd.read_csv('./raw_companies/companies_us_urls.csv')
+fp = './companies_{country_code}/{company_name}/benefits.html'
+country_code = 'CA'
+df_csv = pd.read_csv('./raw_companies/companies_ca_urls.csv')
 names = df_csv['company']
 
-info_US = get_all_additional_company_info(country_code, names)
-df = pd.DataFrame(info_US, columns=header)
+info_CA = get_all_additional_company_info(country_code, names)
+df = pd.DataFrame(info_CA, columns=header)
 
 for i in range(len(header)):
     df_csv[header[i]] = df[header[i]]
 
 df_csv = df_csv.drop(['url_overview', 'url_review', 'url_interview', 'url_benefits', 'Unnamed: 0'], axis=1)
-df_csv.to_csv('./raw_companies/companies_us_info.csv')
+df_csv.to_csv('./raw_companies/companies_ca_info.csv')
+
+# US
+# country_code = 'US'
+# df_csv = pd.read_csv('./raw_companies/companies_us_urls.csv')
+# names = df_csv['company']
+
+# info_US = get_all_additional_company_info(country_code, names)
+# df = pd.DataFrame(info_US, columns=header)
+
+# for i in range(len(header)):
+#     df_csv[header[i]] = df[header[i]]
+
+# df_csv = df_csv.drop(['url_overview', 'url_review', 'url_interview', 'url_benefits', 'Unnamed: 0'], axis=1)
+# df_csv.to_csv('./raw_companies/companies_us_info.csv')
